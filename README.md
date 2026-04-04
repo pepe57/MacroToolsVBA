@@ -1,5 +1,5 @@
 # New repository
-**This repository is closed, but you can download the new version of the add-on here Addin_MacroTools_2.0([Addin_MacroTools_2.0](https://github.com/vbatools/Addin_MacroTools))
+This repository is closed, but you can download the new version of the add-on here Addin_MacroTools_2.0([Addin_MacroTools_2.0](https://github.com/vbatools/Addin_MacroTools))
 ---
 # MacroToolsVBA
 **Macro Tools VBA** - a tool for automating the development of macros in the Visual Basic Editor (VBE) MS Excel and Word
